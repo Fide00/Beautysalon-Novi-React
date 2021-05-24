@@ -1,0 +1,21 @@
+.products {
+    display: grid;
+    grid-template-columns: repeat(4, 250px);
+    grid-gap: 20px;
+}
+
+.product-picture {
+    margin: 10px;
+    height: 100px;
+    width: 150px;
+    border-radius: 60px;
+    box-shadow: 3px 3px 10px 0px rgb(152, 139, 152);
+}
+
+.product-name {
+    font-weight: bold;
+}
+
+.product-price {
+    font-weight: bold;
+}

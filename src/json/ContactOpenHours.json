@@ -1,0 +1,33 @@
+[
+  {
+    "day": "Maandag",
+    "time": "8:30 - 17:00"
+  },
+  {
+    "day": "Dinsdag",
+    "time": "8:30 - 17:00"
+  },
+  {
+    "day": "Woensdag",
+    "time": "8:30 - 17:00"
+  },
+  {
+    "day": "Donderdag",
+    "time": "8:30 - 17:00"
+  },
+  {
+    "day": "Vrijdag",
+    "time": "10:00 17:00"
+  },
+  {
+    "day": "Zaterdag",
+    "time": "10:00 17:00"
+  },
+  {
+    "day": "Zondag",
+    "time": "gesloten"
+  }
+]
+
+
+

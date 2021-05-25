@@ -1,15 +1,15 @@
-import '../App/App.css';
-import './Home.css';
-import React from 'react';
-import home_beauty from '../../assets/images/home_beauty.jpg';
+import '../App/App.css'
+import './Home.css'
+import React from 'react'
+import homeBeauty from '../../assets/images/homeBeauty.jpg'
 
-function Home() {
-    return (
-        <section className="home">
-            {/*Box-container*/}
-            <div className="grid-container">
+function Home () {
+  return (
+          <section className="home">
+            {/* Box-container */}
+   <div className="grid-container">
 
-                {/*Box 3: Content*/}
+                  {/* Box 3: Content */}
                 <div className="grid-box3">
 
                     <div className="page-title"> Welkom</div>
@@ -22,13 +22,13 @@ function Home() {
                         Wij kunnen u tijdens de afspraak adivseren aan de hand van huidanalyse en uw wensen.<br/>
                         <br/>
                     </div>
-                    {/*Foto*/}
-                    <img className="photo-home" src={home_beauty} alt="beautysalon"/>
+                    {/* Foto */}
+                    <img className="photo-home" src={homeBeauty} alt="beautysalon"/>
 
                 </div>
             </div>
         </section>
-    );
+  )
 }
 
-export default Home;
+export default Home

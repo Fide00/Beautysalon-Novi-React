@@ -55,8 +55,7 @@ De hoofdfolder genaamd SalonManagerReact2 dient in de ontwikkelprogramma geimpor
 2. Druk op File > Open in het menu.
 3. Browse naar de projectfolder en druk op de knop OK.
 4. Typ in de geintegreerde Terminal `npm install` en druk op enter.
-5. Typ in de geintegreerde Terminal `npm install axios`en druk op enter.
-6. Zodra de packages zijn ingestalleerd, typ in de geintegreerde Terminal `npm start` en druk op enter. Hierbij wordt in de webbrowser de link http://localhost:3000 geopend. 
+5. Zodra de packages zijn ingestalleerd, typ in de geintegreerde Terminal `npm start` en druk op enter. Hierbij wordt in de webbrowser de link http://localhost:3000 geopend. 
 De webapplicatie is hierin zichtbaar.
 
 ### NPM commands
